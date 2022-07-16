@@ -1,6 +1,7 @@
-### Model Deployment with Flask api by using Heroku platform 
+## Model Deployment with Flask api by using Heroku platform 
 
-- This repo is for DS and MLOPS aspirants.
+- This repo for MLOPS/Data Scientist Trainees and DS Aspirants.
+------------------------------------------------------------
 
 ### Before uploading to github and Heroku, be sure about the local run is OK.
 
