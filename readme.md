@@ -17,7 +17,7 @@ git branch -M main
 git push -u origin main
 ```
 
-### Give permission to Heroku to connect to the relevant Github repo
+### Give permission to Heroku to connect to the relevant GitHub repo
 ![Screen Shot 2022-07-16 at 9 35 02 PM](https://user-images.githubusercontent.com/51021282/179367911-32df3630-57af-44c6-801c-e9baa18e8be7.png)
 
 
