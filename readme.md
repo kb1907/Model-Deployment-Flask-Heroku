@@ -17,11 +17,14 @@ git push -u origin main
 ```
 
 ### Give permission to Heroku to connect to the relevant Github repo
+![Screen Shot 2022-07-16 at 9 35 02 PM](https://user-images.githubusercontent.com/51021282/179367911-32df3630-57af-44c6-801c-e9baa18e8be7.png)
 
 
 
 ### Heroku will build the app
 
+![Screen Shot 2022-07-16 at 9 33 00 PM](https://user-images.githubusercontent.com/51021282/179367913-910f135c-313d-4995-a053-5a441538de69.png)
 
 
 ### Go to your app website and enjoy !
+![image](https://user-images.githubusercontent.com/51021282/179367923-98dc9827-4393-45f2-b1ba-3446eadf7e71.png)
