@@ -3,7 +3,7 @@
 - This repo for MLOps/Data Scientist Trainees and DS Aspirants.
 ------------------------------------------------------------
 
-### Before uploading to github and Heroku, be sure about the local run is OK.
+### Before uploading to GitHub and Heroku, be sure about the local run is OK.
 
 ![Screen Shot 2022-07-16 at 9 31 46 PM](https://user-images.githubusercontent.com/51021282/179367786-52ea5cfd-c956-4395-ac3c-0a0b68c87947.png)
 
