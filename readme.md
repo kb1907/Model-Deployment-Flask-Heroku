@@ -38,3 +38,5 @@ git push -u origin main
 
 ### Go to your app website and enjoy !
 ![image](https://user-images.githubusercontent.com/51021282/179367923-98dc9827-4393-45f2-b1ba-3446eadf7e71.png)
+
+All the best 🤘
