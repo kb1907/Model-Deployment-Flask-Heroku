@@ -3,6 +3,15 @@
 - This repo for MLOps/Data Scientist Trainees and DS Aspirants.
 ------------------------------------------------------------
 
+## Steps
+
+- Train our model
+- Flask web application
+- Commit our codes to GitHub
+- Link GitHub account to Heroku
+- Deploy the model
+---------------------------------------------------------------
+
 ### Before uploading to GitHub and Heroku, be sure about the local run is OK.
 
 ![Screen Shot 2022-07-16 at 9 31 46 PM](https://user-images.githubusercontent.com/51021282/179367786-52ea5cfd-c956-4395-ac3c-0a0b68c87947.png)
